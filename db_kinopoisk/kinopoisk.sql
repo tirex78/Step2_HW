@@ -46,7 +46,6 @@ CREATE TABLE
         creer text,
         height numeric,
         date_of_birth date,
-        movie_id integer,
         CONSTRAINT pk_person PRIMARY KEY (id)
     );
 
